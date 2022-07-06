@@ -1789,7 +1789,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     content: "";
     width: 60px;
     height: 2px;
-    background-color: #862121;
+    background-color: #228B22;
     margin-top: -1.5px;
     position: absolute;
     left: 0;
