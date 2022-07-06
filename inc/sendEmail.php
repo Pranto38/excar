@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = '1902134@student.ruet.ac.bd';
+$siteOwnersEmail = 'pmahamud1983@gmail.com';
 
 
 if($_POST) {
