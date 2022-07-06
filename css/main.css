@@ -1819,8 +1819,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn {
     display: block;
     width: 210px;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    border-color: #228B22;
+    color: #ff8016;
     margin: 1.5rem 0 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1852,8 +1852,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::after {
-    border-bottom: 2px solid #922424;
-    border-right: 2px solid #922424;
+    border-bottom: 2px solid #228B22;
+    border-right: 2px solid #228B22;
     content: '';
     display: block;
     height: 8px;
