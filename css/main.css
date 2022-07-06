@@ -98,13 +98,13 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #862121;
+    color: #e67416;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: #191A3F;
+    color: #155c1d;
 }
 
 a:focus {
@@ -1276,7 +1276,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h3 {
     font-family: "montserrat-semibold", sans-serif;
     font-size: 2rem;
-    color: #862121;
+    color: #e67416;
     text-transform: uppercase;
     letter-spacing: .15rem;
     margin-top: 0;
