@@ -4136,7 +4136,8 @@ article.blog-single .blog-content {
     .commentlist .comment__avatar {
         display: none;
     }
-    .example1 {
+  }
+ .example1 {
   background-color: black;
  height: 50px;	
  overflow: hidden;
@@ -4180,5 +4181,4 @@ article.blog-single .blog-content {
  -webkit-transform: translateX(-100%); /* Firefox bug fix */
  transform: translateX(-100%); 
  }
-}
 }
