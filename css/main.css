@@ -4137,8 +4137,9 @@ article.blog-single .blog-content {
         display: none;
     }
   }
- .example1 {
-  background-color: black;
+
+.example1 {
+ background-color: black;
  height: 50px;	
  overflow: hidden;
  position: relative;
